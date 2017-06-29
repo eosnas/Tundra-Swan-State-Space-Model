@@ -1,7 +1,9 @@
 # Tundra-Swan-State-Space-Model
-This repository contains the R/knitr code that generates the a PDF describing a Bayesian State Space model for swans. The PDF is the output from the knitr code.  
+This repository contains the R/knitr/JAGS code that generates the a PDF describing a Bayesian State Space model for swans. The PDF is the output from the knitr code.  The markdown file (SwanStateSpaceModel.Rmd) contains the text and knitr chunks of R and JAGS code that produces the PDF file.  See yihui.name/knitr/ for detail of knitr files. All code for figure genetation and analysisis in the markdown file. The CSV file contains the data used in the analysis.  
 
-These files were produced for the Pacific Flyway Study Committee.  
+To read the report, simply download or "click" on the PDF file.  
+
+These files were produced for the Pacific Flyway Study Committee and biologists within Region 1 & 7 MBM USFWS.  
 
 The United States Fish and Wildlife Service (FWS) GitHub project code is provided on an
 "as is" basis and the user assumes responsibility for its use. FWS has relinquished control
