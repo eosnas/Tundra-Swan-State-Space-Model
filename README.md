@@ -1,5 +1,5 @@
 # Tundra-Swan-State-Space-Model
-This repository contains the R/knitr/JAGS code that generates the a PDF describing a Bayesian State Space model for swans. The PDF is the output from the knitr code.  The markdown file (SwanStateSpaceModel.Rmd) contains the text and knitr chunks of R and JAGS code that produces the PDF file.  See yihui.name/knitr/ for detail of knitr files. All code for figure genetation and analysisis in the markdown file. The CSV file contains the data used in the analysis.  
+This repository contains the R/knitr/JAGS code that generates the a PDF describing a Bayesian State Space model for swans. The PDF is the output from the knitr code.  The markdown file (SwanStateSpaceModel.Rmd) contains the text and knitr chunks of R and JAGS code that produces the PDF file.  See yihui.name/knitr/ for detail of knitr files. All code for figure genetation and analysisis in the markdown file. The CSV file (Western... .csv) contains the data used in the analysis.  
 
 To read the report, simply download or "click" on the PDF file.  
 
